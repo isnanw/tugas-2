@@ -1,0 +1,8 @@
+{
+  "name": "tugas2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "e108229e"
+}
